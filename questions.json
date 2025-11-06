@@ -1,0 +1,159 @@
+{
+  "heading": "Pronouns",
+  "topics": [
+    {
+      "heading": "Pronouns",
+      "questions":[
+  {
+    "questionNo": 1,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> They painted the mural ___.",
+    "options": ["themself", "themselves", "their", "they"],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> ___ notebook is this? Is it yours?",
+    "options": ["Who", "What", "Whose", "Which"],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> My sister and ___ went to the park.",
+    "options": ["I", "her", "myself", "mine"],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> The dog wagged ___ tail happily.",
+    "options": ["it", "its", "itself", "none of the above"],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> The artist ___ paintings are famous lives here.",
+    "options": ["who", "whose", "whom", "which"],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> We decorated the room ___.",
+    "options": ["ourself", "ourselves", "us", "we"],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> ___ of these colours do you prefer?",
+    "options": ["Who", "Whom", "Which", "Whose"],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> The keys are ___. You left them on the table.",
+    "options": ["your", "yours", "you", "yourself"],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": "Fill in the blank with the most appropriate pronoun.<br> He ___ solved the puzzle.",
+    "options": ["him", "his", "himself", "he"],
+    "answer": 2
+  },
+  {
+    "questionNo": 10,
+    "question": "Which pronoun is singular and gender-neutral?",
+    "options": ["they", "it", "them", "she"],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": "Which is not a pronoun?",
+    "options": ["themselves", "running", "yours", "who"],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": "Which sentence has a possessive pronoun?",
+    "options": ["Their team won the match.", "This is hers.", "He himself fixed the car.", "Who is there?"],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": "Choose the interrogative pronoun: 'Which of these is yours?'",
+    "options": ["Which", "these", "yours", "is"],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": "Which is a reflexive pronoun?",
+    "options": ["his", "yourself", "whom", "these"],
+    "answer": 1
+  },
+  {
+    "questionNo": 15,
+    "question": "Identify the type of pronoun used in this sentence:<br> 'The book <b>that</b> Austin borrowed is due.'",
+    "options": ["Relative", "Possessive", "Personal", "None of the above"],
+    "answer": 0
+  },
+  {
+    "questionNo": 16,
+    "question": "Choose the correct highlighted pronoun type:<br> '<b>This</b> is the house <b>where</b> I grew up.'",
+    "options": ["Demonstrative / Relative", "Personal / Interrogative", "Reflexive / Possessive", "None of the above"],
+    "answer": 0
+  },
+  {
+    "questionNo": 17,
+    "question": "Identify the highlighted pronoun:<br> 'The cat licked <b>its</b> paws.'",
+    "options": ["Personal", "Possessive", "Reflexive", "Demonstrative"],
+    "answer": 1
+  },
+  {
+    "questionNo": 18,
+    "question": "Choose the correct pronoun type:<br> 'The trophy is <b>yours</b> if you win.'",
+    "options": ["Personal", "Possessive", "Reflexive", "Interrogative"],
+    "answer": 1
+  },
+  {
+    "questionNo": 19,
+    "question": "Identify the highlighted pronoun:<br> '<b>Who</b> left the door open?'",
+    "options": ["Relative", "Interrogative", "Reflexive", "Personal"],
+    "answer": 1
+  },
+  {
+    "questionNo": 20,
+    "question": "Identify the highlighted pronoun:<br> 'The girl <b>whose</b> backpack was lost is crying.'",
+    "options": ["Personal", "Possessive", "Relative", "Interrogative"],
+    "answer": 2
+  },
+  {
+    "questionNo": 21,
+    "question": "Choose the sentence that correctly uses the word 'privately'.",
+    "options": [
+      "The boy privately shouted to the crowd.",
+      "She privately told her friend about the surprise party.",
+      "He privately announced it to everyone in school."
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 22,
+    "question": "What is a spyglass?",
+    "options": ["A small handheld telescope", "A glass used for drinking", "A window that opens and closes"],
+    "answer": 0
+  },
+  {
+    "questionNo": 23,
+    "question": "Which sentence uses the word 'pendulum' correctly?",
+    "options": [
+      "The clock’s pendulum swung back and forth, keeping time.",
+      "The pendulum was used to drink water.",
+      "The pendulum flew across the sky like a bird."
+    ],
+    "answer": 0
+  }
+]
+
+
+
+    }
+  ]
+}

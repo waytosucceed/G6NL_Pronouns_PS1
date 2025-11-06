@@ -126,11 +126,11 @@
   },
   {
     "questionNo": 21,
-    "question": "Choose the sentence that correctly uses the word 'privately'.",
+    "question": "What does the word “advancements” mean in the sentence below? <br>“Recent advancements in technology have made communication faster and easier.”",
     "options": [
-      "The boy privately shouted to the crowd.",
-      "She privately told her friend about the surprise party.",
-      "He privately announced it to everyone in school."
+      "Failures or setbacks",
+      "Improvements or progress",
+      "Delays or obstacles"
     ],
     "answer": 1
   },
@@ -156,4 +156,5 @@
 
     }
   ]
+
 }
